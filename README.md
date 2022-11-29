@@ -1,2 +1,2 @@
 # admin_dksb
-https://script.google.com/macros/s/AKfycbwo_SfgfgnMn01FPbQrdy2rs-NMcDxQZI8MC53rlOBkf6eIwL_3VYQ5ZVUwW7h85Y4I/exec
+Database of Koli Samaj in Bhilwara (DKSB). There is all information about every member of Koli Samaj also have donation inventory, online examination, events etc.
